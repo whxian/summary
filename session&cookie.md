@@ -1,3 +1,4 @@
+# session&cookie #
 在网站开发中，对于存储和记忆有cookie和session两种方式，对于前端开发工程师来说，使用session的情况并不多，大多数前端前端开发工程师可能更了解cookie，然而，熟悉后端的前端程序员也了解session，session是服务器端的存储信息机制。
 ___
 
